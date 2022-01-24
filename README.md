@@ -1,7 +1,6 @@
 # Food-Sales-Predictions
 Sales Predictions for food items at sold at various stores.
 
-
 This is my first ever Computer Science Project, Worked through on the first half of my time in a BootCamp at Coding Dojo.
 
 The data set is information on various Grocery Stores/Supermarkets and their sales.
@@ -9,7 +8,7 @@ The data set is information on various Grocery Stores/Supermarkets and their sal
 My analysis includes cleaning of the data, creating analysis and explanatory visuals, creating a supervised ML Regression Analysis of the data and presenting my findings.
 
 [Food Sales Predictions Final Presentation.pptx](https://github.com/alupo933/Food-Sales-Predictions/files/7922635/Food.Sales.Predictions.Final.Presentation.pptx) 
-Final Alysis Presentation
+Final Analysis Presentation
 
 [recording.zip](https://github.com/alupo933/Food-Sales-Predictions/files/7922644/recording.zip)
 Original Recording of Presentation
